@@ -1,5 +1,5 @@
 ## 👋 Welcome to My GitHub!
-Hey there! Biofects here – a IT enthuestis  passionate about exploring new technologies and creating solutions that others can use, adapt, or even improve upon. Here, you'll find a mix of code for various projects, from home automation to AI, and everything in between.
+Hey there! Biofects here – a IT enthusiast passionate about exploring new technologies and creating solutions that others can use, adapt, or even improve upon. Here, you'll find a mix of code for various projects, from home automation to AI, and everything in between.
 
 ### 🚀 About Me
 🛠️ Tinkerer by nature: I love diving into projects that challenge me to think outside the box.
