@@ -1,27 +1,73 @@
-## 👋 Welcome to My GitHub!
-Hey there! Biofects here – a IT enthusiast passionate about exploring new technologies and creating solutions that others can use, adapt, or even improve upon. Here, you'll find a mix of code for various projects, from home automation to AI, and everything in between.
+# Welcome to Biofects Projects
 
-### 🚀 About Me
-🛠️ Tinkerer by nature: I love diving into projects that challenge me to think outside the box.
-🤖 AI Enthusiast: I’m fascinated by AI and machine learning, and I'm constantly experimenting with new tools and models.
-🏠 Home Automation Geek: Building smarter homes is a hobby of mine, and I’m always working on ways to make devices communicate better.
-🌐 Open-Source Advocate: Code is meant to be shared, so feel free to use my projects, suggest improvements, or adapt them to fit your own needs!
+## 🚀 Home Assistant Customizations & Integrations
 
-### 🔧 Skills & Tech I Work With
-Languages: Python, JavaScript, YAML, HTML/CSS
-Frameworks & Libraries: Home Assistant, TensorFlow, Node.js
-Tools: Docker, Git, Jupyter Notebooks, HACS
+Welcome to **Biofects**, a collection of custom Home Assistant integrations, themes, and tools designed to enhance your smart home experience. Below, you'll find a list of our featured projects, each with unique features tailored for a more customizable, powerful, and visually appealing Home Assistant setup.
 
-### 💡 Featured Projects
-Some projects you might enjoy exploring:
+---
 
-Home Automation Dashboards - Enhancing Home Assistant setups with custom cards, themes, and layouts.
-AI Experiments - Scripts and small apps utilizing machine learning models.
-Utility Scripts - Helpful scripts that solve everyday problems.
+## 🎨 Enhanced Biofects Theme  
+[**Repository**](https://github.com/biofects/Enhanced-Biofects)  
+A futuristic Home Assistant theme with glowing card effects, moving LED borders, and a stylish cyberpunk-inspired design. Features include:
+- 🔵 Neon-glow card borders with animated effects.
+- 🌌 Dynamic particle-based background.
+- 🎭 Custom styling for sidebar and dashboard elements.
+- ⚙️ Fully configurable via YAML and `card-mod`.
 
-### 🤝 Let’s Collaborate
-Whether you’re here to get inspired, find a piece of code, or collaborate on a project, I’m thrilled to have you here! Don’t hesitate to open issues, suggest improvements, or start a conversation – I believe the best ideas come from collaboration.
+---
 
-🌐 Connect with Me
+## 🖥️ HA Biofects Full Menu  
+[**Repository**](https://github.com/biofects/ha-biofects-fullmenu)  
+A full-page interactive menu for Home Assistant dashboards featuring:
+- 🌟 Rotating particles and glowing orb effects.
+- 📌 Customizable menu items with icons.
+- 🎨 Holographic UI with smooth animations.
+- 🛠️ Easy integration via Lovelace.
 
-Thanks for stopping by! 😊 Happy coding!
+---
+
+## 📝 Simple Sticky Note Card  
+[**Repository**](https://github.com/biofects/simple_sticky_note)  
+A lightweight Home Assistant Lovelace card for adding sticky notes. Features:
+- 📒 Editable post-it-style note with a persistent message.
+- 🖊️ Cursive font with adjustable size.
+- 🌍 Globally accessible across dashboards.
+- 📌 Simple popup editor for quick edits.
+
+---
+
+## 🌐 HA UniFi Site Manager  
+[**Repository**](https://github.com/biofects/HA-UniFi-Site-Manager)  
+A Home Assistant integration to manage multiple UniFi sites seamlessly:
+- 📊 Monitor multiple UniFi sites from a single dashboard.
+- 🔄 Automated site switching.
+- 🛠️ Customizable alerts and status tracking.
+
+---
+
+## 💦 Rachio Local Integration  
+[**Repository**](https://github.com/biofects/rachio_local)  
+A local control integration for Rachio smart irrigation systems, featuring:
+- 🌱 Offline operation without cloud dependency.
+- ⏳ Custom watering schedules.
+- 📡 Real-time status updates.
+
+---
+
+## ⚡ HA UniFi Speedtest  
+[**Repository**](https://github.com/biofects/HA-Unifi-Speedtest)  
+A UniFi-powered speed test integration for Home Assistant:
+- 📶 Scheduled or manual speed tests.
+- 📈 Historical speed tracking and insights.
+- ⚡ Real-time network performance monitoring.
+
+---
+
+## 📌 Stay Connected  
+For updates and discussions, follow this repository and check out each project's GitHub page for detailed setup guides!
+
+---
+
+**© 2025 Biofects**
+
+
